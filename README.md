@@ -1,6 +1,6 @@
 # cubos-academy-psel-ifood
 
-Desafio realizado pelo hackerrank.com, com o intuito de aprovação no curso de Desenvolvimento de Software da Cubos Academy
+Desafio realizado pelo hackerrank.com, com o intuito de aprovação no curso de Desenvolvimento de Software da Cubos Academy.
 Cada arquivo se trata de um desafio, com seus enunciados abaixo.
 
 Idosos:
