@@ -8,8 +8,8 @@ Cada arquivo se trata de um desafio, com seus enunciados abaixo.
 <details>
         <summary>Idosos</summary>
         
-\        
-Num banco (assim como em vários outros lugares) os idosos têm preferência e, por isso, pegam sempre uma fila especial. Você ficou responsável por fazer a atualização do software que identifica, a partir da idade da pessoa, se ela faz parte do grupo de idosos. 
+        
+Num banco (assim como em vários outros lugares) os idosos têm preferência e, por isso, pegam sempre uma fila especial. Você ficou responsável por fazer a atualização do software que identifica, a partir da idade da pessoa, se ela faz parte do grupo de idosos.\ 
 A entrada do problema será sempre uma variável idade do tipo number. Essa idade é sempre um número inteiro e positivo. 
 Você deve imprimir na tela IDOSOS caso a pessoa seja idosa, ou seja, tenha 60 anos ou mais. Caso contrário, imprima na tela PEGUE A FILA NORMAL.
 </details>
