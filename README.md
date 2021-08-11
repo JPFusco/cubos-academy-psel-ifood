@@ -16,9 +16,10 @@ Você deve imprimir na tela IDOSOS caso a pessoa seja idosa, ou seja, tenha 60 a
 
 <details>
         <summary>Tamanho das Camisas</summary>
-        
-        
-Um amigo seu vai viajar para os Estados Unidos e vai aproveitar para comprar roupas por lá. Ele ficou sabendo que lá as letras utilizadas para cada tamanho de roupas são diferentes. Ele estava com uma looonga lista de roupas que queria comprar e estava fazendo a equivalência dos tamanhos no brasil com os tamanhos americanos, de acordo com a tabela abaixo. 
+
+
+Um amigo seu vai viajar para os Estados Unidos e vai aproveitar para comprar roupas por lá. Ele ficou sabendo que lá as letras utilizadas para cada tamanho de roupas são diferentes. Ele estava com uma looonga lista de roupas que queria comprar e estava fazendo a equivalência dos tamanhos no brasil com os tamanhos americanos, de acordo com a tabela abaixo.  
+
 >Brasil: PP, P, M, G, GG. 
 >
 >EUA: XS, S, M, L, XL. 
