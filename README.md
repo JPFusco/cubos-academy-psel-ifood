@@ -86,6 +86,7 @@ Numa joalheria, os clientes são categorizados diferentemente a depender do quan
 
 A entrada será sempre apenas um array de números inteiros chamado precos que guarda os preços de cada um dos itens que um determinado cliente comprou na loja, em reais. 
 Você deve imprimir na tela: 
+        
 >PREMIUM: caso o dado cliente seja PREMIUM
 >
 >VIP: caso o dado cliente seja VIP 
