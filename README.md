@@ -77,7 +77,8 @@ Você deverá imprimir na tela apenas uma das opções abaixo:
         <summary>Cliente Premium</summary>
         
 <br/>        
-Numa joalheria, os clientes são categorizados diferentemente a depender do quanto gastem na loja e a depender também do valor unitário dos itens que compram. Você foi contratado(a) para automatizar essa categorização. As categorias são: 
+Numa joalheria, os clientes são categorizados diferentemente a depender do quanto gastem na loja e a depender também do valor unitário dos itens que compram. Você foi contratado(a) para automatizar essa categorização. As categorias são: <br/>
+        
 >CLIENTES PREMIUM: são clientes que gastaram mais de 1000 reais em compras, sendo que pelo menos algum dos itens custou mais de 200 reais
 >
 >CLIENTES VIP: são clientes que gastaram mais de 1000 reais, mas não compraram nenhum item acima de 200 reais
