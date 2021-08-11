@@ -5,11 +5,13 @@ Desafio realizado pelo hackerrank.com, com o intuito de aprovação no curso de 
 Cada arquivo se trata de um desafio, com seus enunciados abaixo.
 
 
-## Idosos:
+<details>
+        <summary>## Idosos:</summary>
+        
 Num banco (assim como em vários outros lugares) os idosos têm preferência e, por isso, pegam sempre uma fila especial. Você ficou responsável por fazer a atualização do software que identifica, a partir da idade da pessoa, se ela faz parte do grupo de idosos. 
 A entrada do problema será sempre uma variável idade do tipo number. Essa idade é sempre um número inteiro e positivo. 
 Você deve imprimir na tela IDOSOS caso a pessoa seja idosa, ou seja, tenha 60 anos ou mais. Caso contrário, imprima na tela PEGUE A FILA NORMAL.
-
+</details>
 
 ## Tamanho das Camisas:
 Um amigo seu vai viajar para os Estados Unidos e vai aproveitar para comprar roupas por lá. Ele ficou sabendo que lá as letras utilizadas para cada tamanho de roupas são diferentes. Ele estava com uma looonga lista de roupas que queria comprar e estava fazendo a equivalência dos tamanhos no brasil com os tamanhos americanos, de acordo com a tabela abaixo. 
