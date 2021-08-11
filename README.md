@@ -25,7 +25,9 @@ Você deve imprimir na tela o tamanho equivalente desta roupa nos EUA.
 ## Cores:
 Na escola, seu irmão mais novo estava estudando as cores primárias e suas combinações. Para ajudá-lo a estudar, você resolveu fazer um programa que, dadas duas cores primárias, o programa informa qual a cor resultante das combinações dela. Para fazer o programa, você se baseou na tabela abaixo. 
 >Cor 1: azul, azul, amarelo.
+>
 >Cor 2: amarelo, vermelho, vermelho
+>
 >Resultado: verde, roxo, laranja
 
 A entrada do problema será sempre composta por duas variáveis cor1 e cor2 do tipo string. Cada uma delas pode assumir o valor de azul, amarelo ou vermelho. 
@@ -41,27 +43,36 @@ Caso o número sorteado seja maior do que 20, imprima na tela todos os números 
 ## Vacinação:
 Você trabalha no setor de TI no Ministério da Saúde e ficou responsável por fazer um programa que, baseado nos dados pessoais de um cidadão, deve dizer se a pessoa está apta a tomar uma vacina ou não, e porque. Para que uma pessoa possa ser vacinada ela não pode já ter tomado a vacina anteriormente. Além disso, para poder tomar, ela deverá ter 60 anos ou mais ou ter alguma comorbidade. Caso contrário, a pessoa não poderá tomar a vacina. A entrada do problema será sempre um objeto chamado obj com as seguintes propriedades: 
 >jaTomouVacina: do tipo booleano (true ou false), que indica se a pessoa já tomou vacina ou não
+>
 >temComorbidade: do tipo booleano (true ou false), que indica se a pessoa tem alguma comorbidade ou não
-> idade: do tipo number, que indica a idade da pessoa
+>
+>idade: do tipo number, que indica a idade da pessoa
 
 Você deverá imprimir na tela apenas uma das opções abaixo: 
 >JA TOMOU VACINA: caso a pessoa já tenha tomado a vacina
-> INAPTA: caso a pessoa não tenha tomado a vacina, mas não esteja apta a tomá-la ainda, por qualquer outro motivo que seja 
-> APTA POR IDADE: caso a pessoa esteja apta a tomar a vacina por conta de sua idade, independentemente de ter alguma comorbidade ou não 
-> APTA POR COMORBIDADE: caso a pessoa esteja apta a tomar a vacina pelo fato de ter alguma comorbidade, mesmo que não tenha a idade mínima necessária.
+>
+>INAPTA: caso a pessoa não tenha tomado a vacina, mas não esteja apta a tomá-la ainda, por qualquer outro motivo que seja 
+>
+>APTA POR IDADE: caso a pessoa esteja apta a tomar a vacina por conta de sua idade, independentemente de ter alguma comorbidade ou não 
+>
+>APTA POR COMORBIDADE: caso a pessoa esteja apta a tomar a vacina pelo fato de ter alguma comorbidade, mesmo que não tenha a idade mínima necessária.
 
 
 ## Clientes Premium:
 Numa joalheria, os clientes são categorizados diferentemente a depender do quanto gastem na loja e a depender também do valor unitário dos itens que compram. Você foi contratado(a) para automatizar essa categorização. As categorias são: 
 >CLIENTES PREMIUM: são clientes que gastaram mais de 1000 reais em compras, sendo que pelo menos algum dos itens custou mais de 200 reais 
+>
 >CLIENTES VIP: são clientes que gastaram mais de 1000 reais, mas não compraram nenhum item acima de 200 reais
+>
 >CLIENTE NORMAL: são todos os outros clientes, que não se enquadram em nenhuma das outras categorias
 
 A entrada será sempre apenas um array de números inteiros chamado precos que guarda os preços de cada um dos itens que um determinado cliente comprou na loja, em reais. 
 Você deve imprimir na tela: 
 >PREMIUM: caso o dado cliente seja PREMIUM
-> VIP: caso o dado cliente seja VIP 
-> NORMAL: caso seja um cliente normal
+>
+>VIP: caso o dado cliente seja VIP 
+>
+>NORMAL: caso seja um cliente normal
 
 
 ## Brasil com "P":
