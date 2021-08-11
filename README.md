@@ -77,9 +77,12 @@ Você deverá imprimir na tela apenas uma das opções abaixo:
         <summary>Cliente Premium</summary>
         
 <br/>        
-Numa joalheria, os clientes são categorizados diferentemente a depender do quanto gastem na loja e a depender também do valor unitário dos itens que compram. Você foi contratado(a) para automatizar essa categorização. As categorias são: 
->CLIENTES PREMIUM: são clientes que gastaram mais de 1000 reais em compras, sendo que pelo menos algum dos itens custou mais de 200 reais  
->CLIENTES VIP: são clientes que gastaram mais de 1000 reais, mas não compraram nenhum item acima de 200 reais  
+Numa joalheria, os clientes são categorizados diferentemente a depender do quanto gastem na loja e a depender também do valor unitário dos itens que compram. Você foi contratado(a) para automatizar essa categorização. As categorias são:
+
+>CLIENTES PREMIUM: são clientes que gastaram mais de 1000 reais em compras, sendo que pelo menos algum dos itens custou mais de 200 reais
+>
+>CLIENTES VIP: são clientes que gastaram mais de 1000 reais, mas não compraram nenhum item acima de 200 reais
+>
 >CLIENTE NORMAL: são todos os outros clientes, que não se enquadram em nenhuma das outras categorias  
 
 A entrada será sempre apenas um array de números inteiros chamado precos que guarda os preços de cada um dos itens que um determinado cliente comprou na loja, em reais. 
