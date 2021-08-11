@@ -114,11 +114,11 @@ Veri, o Valdo, é um grande artista e também um grande colecionador de obras de
 Como Veri, o Valdo é também muito ocupado, ele têm vários agentes pelo mundo que buscam obras de artes perdidas ou esquecidas por aí e tentam comprá-las. Por isso, para manter seu acertvo sempre atualizado, verivaldo tem um sistema apenas para armazenar as informações de todas as suas obras. 
 Você foi contratado para fazer uma atualização nesse sistema. Apesar dele funcionar bem, ele não dispõe de uma informação simples, que é a informação de qual é a obra de arte mais valiosa. Toda vez que ele precisa dela, ele tem que analisar todo seu catálogo para descbri-la. Como essa é uma informação que muito lhe interessa, você foi contratado justamente para fazer um programa que, dada a lista de obras de arte que Veri, o Valdo possui, imprima na tela o nome da obra mais valiosa de seu acervo. 
 A entrada será sempre uma única variável obras que é um array de objetos, em que cada um dos objetos é uma das obras do acervo de verivaldo. Cada item deste array tem sempre o formato abaixo:  
->{
-        nome: "Monalisa",
-        autor: "Lenardo Da Vinci",
-        valor: 1250000000000
-}
+>{  
+>       nome: "Monalisa",  
+>       autor: "Lenardo Da Vinci",  
+>       valor: 1250000000000  
+>}
 
 Você deve imprimir na tela apenas o nome da obra mais valiosa do acervo.
 </details>
